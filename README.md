@@ -1,3 +1,1 @@
-# lucky-mods-craft.github.io
-
-Lucky Mods Craft
+# Lucky Mods Craft
